@@ -2,61 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.smorganjeffries.net/about.html</loc>
-    <lastmod>2015-02-22T20:52:26.706Z</lastmod>
+    <lastmod>2015-02-22T21:34:02.022Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.smorganjeffries.net/buy.html</loc>
+    <lastmod>2015-02-22T21:34:02.023Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.smorganjeffries.net/contact.html</loc>
-    <lastmod>2015-02-22T20:52:26.713Z</lastmod>
+    <lastmod>2015-02-22T21:34:02.023Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.smorganjeffries.net/index.html</loc>
-    <lastmod>2015-02-22T20:52:26.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.smorganjeffries.net/projects.html</loc>
-    <lastmod>2015-02-22T20:52:26.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.smorganjeffries.net/projects/angular-parse-interface.html</loc>
-    <lastmod>2015-02-22T20:52:26.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.smorganjeffries.net/projects/parse-todoodly.html</loc>
-    <lastmod>2015-02-22T20:52:26.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.smorganjeffries.net/projects/react-playground.html</loc>
-    <lastmod>2015-02-22T20:52:26.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.smorganjeffries.net/projects/todoodly.html</loc>
-    <lastmod>2015-02-22T20:52:26.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.smorganjeffries.net/projects/vitality-api-server.html</loc>
-    <lastmod>2015-02-22T20:52:26.713Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.smorganjeffries.net/projects/vitality.html</loc>
-    <lastmod>2015-02-22T20:52:26.713Z</lastmod>
+    <lastmod>2015-02-22T21:34:02.023Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
