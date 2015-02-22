@@ -1,0 +1,30 @@
+- projectName: Vitality
+  repository: vitals-tracker
+  url: http://vitals-tracker.smorganjeffries.net
+  brief: Single-page app for tracking vital signs.
+  description:
+- projectName: Vitality API Server
+  repository: vitals-tracker-api
+  url:
+  brief: API server for the Vitality SPA.
+  description:
+- projectName: Todoodly
+  repository: express-todoodly
+  url: http://todoodly.herokuapp.com
+  brief: Multi-page application for tracking todos.
+  description:
+- projectName: Parse Todoodly
+  repository: parse-angular-todoodly
+  url: http://todoodly.parseapp.com
+  brief: Single-page application for tracking todos.
+  description:
+- projectName: Angular Parse Interface
+  repository: angular-parse-interface
+  url:
+  brief: Angular library for using Parse.com's BaaS.
+  description:
+- projectName: React Playground
+  repository: react-playground
+  url: http://react-playground.smorganjeffries.net
+  brief: A place to experiment with Facebook's React library.
+  description:

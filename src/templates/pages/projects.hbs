@@ -1,0 +1,7 @@
+---
+layout: standard_layout.hbs
+---
+<ul>
+    Projects:
+  {{#each projects}}<li><a href="/projects/{{hyphenate (lowercase projectName)}}.html">{{projectName}}</a></li>{{/each}}
+</ul>
