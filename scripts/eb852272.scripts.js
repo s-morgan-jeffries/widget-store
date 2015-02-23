@@ -1,0 +1,1 @@
+!function(a,b){"use strict";var c=function(a){var b=location.protocol,c=location.host,d=b+"//"+c+a;location.href=d};a(document).ready(function(){a("#buy-it").on("click",function(){b("send","buy","button","click"),console.log("button clicked"),c("/thank-you.html")})})}(jQuery,ga);

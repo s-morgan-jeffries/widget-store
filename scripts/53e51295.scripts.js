@@ -1,1 +1,0 @@
-!function(a,b){"use strict";a(document).ready(function(){a("#buy-it").on("click",function(){b("send","buy","button","click"),console.log("button clicked")})})}(jQuery,ga);
